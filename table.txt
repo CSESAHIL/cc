@@ -1,0 +1,15 @@
+Attendance Sheet
+Serial No.	Student Name	Roll No.	Present	Absent
+1	          sahil	          96		
+2	          kanwal	  32		
+3	          gulshan	  2		
+4		  umar ali	  22		
+5		  dua	          93		
+6		  shahzad	  31		
+7		  shahkir	  2		
+8       	 sharjeel         90		
+9		 waqar	          99		
+10		 amir	          97		
+11		 waqar	          91		
+12		 owais	          8		
+13		 irfan	          6		
